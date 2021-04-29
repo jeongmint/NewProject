@@ -13,7 +13,14 @@
             ],
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-msvc-x64"
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:/mingw64/bin/g++.exe",
+            "windowsSdkVersion": "10.0.19041.0",
+            "browse": {
+                "path": [
+                    "D:\\Program Files (x86)\\Windows Kits\\10\\Include"
+                ]
+            }
         }
     ],
     "version": 4
