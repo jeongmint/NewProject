@@ -4,6 +4,10 @@
 void display()
 {
   glClear(GL_COLOR_BUFFER_BIT);
+<<<<<<< HEAD
+=======
+  glShadeModel(GL_FLAT);
+>>>>>>> bd0c77f16207c5c88f0d98801ae2016f211281c3
   glColor3f(0.0, 0.0, 1.0);
   gluLookAt(1.0, 0.0, 10.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0); // 변수가 9개나 들어간다..
   glScalef(1.0, 2.0, 1.0);
